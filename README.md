@@ -1,2 +1,2 @@
 # hello-world
-test
+Hello, testing for Hackathon!
